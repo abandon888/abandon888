@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Who is I?
+A college student in China who is learning front-end.Also interested in distribute system,AIGC and so on.Still learning,hope one day can meet a better myself 
 <!--
 **abandon888/abandon888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
