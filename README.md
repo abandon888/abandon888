@@ -2,6 +2,10 @@
 
 # Who is I?
 A college student in China who is learning front-end.Also interested in distribute system,AIGC and so on.Still learning,hope one day can meet a better myself.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abandon888)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abandon888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abandon888&show_icons=true&theme=tokyonight)
 <!--
 **abandon888/abandon888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
