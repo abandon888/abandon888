@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 # Who is I?
-A college student in China who is learning front-end.Also interested in distribute system,AIGC and so on.Still learning,hope one day can meet a better myself.
+A college student in China who is learning front-end.
+Also interested in web3,webGL,AIGC and so on.
+Keep curious,keep learning.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abandon888)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abandon888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abandon888&show_icons=true&theme=tokyonight)
+
+# About I
+<!--An experienced front-end engineer,field like web3D(NCUmap),web3 all my liked.-->
+[知乎](https://www.zhihu.com/people/bu-ru-shui-jue-32)
+[掘金](https://juejin.cn/user/2107131697040030)
+
+
 <!--
 **abandon888/abandon888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
