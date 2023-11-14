@@ -1,9 +1,15 @@
 ### Hi there 👋
 
 # Who is I?
-A college student in China who is learning front-end.
-Also interested in web3,webGL,AIGC and so on.
-Keep curious,keep learning.
+A college student in China who is learning.\n
+A front-end developer before,but now a full-stacker.\n
+Also interested in web3,webGL,AIGC and so on.\n
+Keep curious,keep learning.\n
+
+# Technical stack
+front-end: mainly based on Reactjs,Nextjs and so on.
+back-end: nestjs,prisma,golang.
+Ops：docker,k8s,serverless testing.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abandon888&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abandon888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
