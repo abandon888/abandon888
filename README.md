@@ -1,12 +1,10 @@
-# Hello World
+# Hi,here(update in 2.10)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abandon888&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_title=true&hide_border=true">
 
-A college student in China who is learning.  
+I am a college student in China and I was previously a front-end developer, but now I am a full-stack developer. 
 
-A front-end developer before,but now a full-stacker.
-
-Also interested in web3,webGL,AIGC and so on.
+I am also interested in web3, webGL, AIGC,Serverless and other related topics. 
 
 Keep curious,keep learning.
 
