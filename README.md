@@ -29,7 +29,7 @@ Keep curious,keep learning.
   
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Golang / Python / Java
 
-Field : front-end,back-end(mainly in Nodejs),operation,UI design.
+Field : front-end,back-end(mainly in Nodejs,Golang),operation,UI design.
 
 ## 📮 How to reach me
 
